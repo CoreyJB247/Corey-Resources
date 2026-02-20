@@ -87,19 +87,19 @@ Config.GeneratorsDensity = {       -- Density multipliers for different entities
 Config.Blips = true
 Config.TheBlips = {
     { title = "LSPD Station 1", colour = 38, id = 60, vector3 = vec3(437.88, -981.12, 30.64) },
-    { title = "LSPD Station 2", colour = 38, id = 60, vector3 = vec3(389.76, -1603.48, 30.68) },
-    { title = "LSPD Station 3", colour = 38, id = 60, vector3 = vec3(-1097.32, -819.68, 18.2) },
-    { title = "LSPD Station 4", colour = 38, id = 60, vector3 = vec3(-1634.12, -1018.84, 13.96) },
+    { title = "LSPD Station 2", colour = 38, id = 60, vector3 = vec3(-1633.6, -1016.32, 13.16) },
 
-    { title = "BCSO Station 1", colour = 5, id = 60, vector3 = vec3(1815.48, 3672.36, 35.8) },
-    { title = "BCSO Station 2", colour = 5, id = 60, vector3 = vec3(-443.28, 6014.8, 32.48) },
-
-    { title = "CCSO Station 2", colour = 52, id = 60, vector3 = vec3(487.28, 5411.52, 671.64) },
-
-    { title = "GSPD Station", colour = 15, id = 60, vector3 = vec3(1651.56, 4859.32, 44.32) },
+    { title = "BCSO Station 1", colour = 52, id = 60, vector3 = vec3(1828.68, 3667.4, 35.88) },
+    { title = "BCSO Station 2", colour = 52, id = 60, vector3 = vec3(-444.56, 6009.52, 32.16) },
 
     { title = "SAHP Station 1", colour = 31, id = 60, vector3 = vec3(-3147.16, 1130.48, 21.6) },
 
+    { title = "Fire Station 1", colour = 1, id = 60, vector3 = vec3(1689.72, 3592.84, 52.72) },
+
+    { title = "Hospital", colour = 2, id = 61, vector3 = vec3(-253.64, 6331.8, 33.48) },
+    { title = "Hospital", colour = 2, id = 61, vector3 = vec3(1761.88, 3636.96, 36.32) },
+    { title = "Hospital", colour = 2, id = 61, vector3 = vec3(301.16, -586.36, 43.88) },
+    { title = "Hospital", colour = 2, id = 61, vector3 = vec3(359.72, -1409.8, 34.64) },
 }
 
 --------------------------------------------------------
