@@ -102,6 +102,8 @@ Config.TheBlips = {
     { title = "Hospital", colour = 2, id = 61, vector3 = vec3(359.72, -1409.8, 34.64) },
 
     { title = "Touchdown Car Rentals", colour = 5, id = 225, vector3 = vec3(-832.11, -2348.33, 13.57) },
+
+    { title = "Diamond Casino", colour = 4, id = 679, vector3 = vec3(924.56, 47.52, 80.96) },
 }
 
 --------------------------------------------------------
