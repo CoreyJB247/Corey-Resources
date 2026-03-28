@@ -74,7 +74,7 @@ Config.HudElements = {            -- List of HUD elements to hide
 --------------------------------------------------------
 
 Config.DisableAmbientSounds = true -- Set to true to reduce the noise of the ammunations gun range. Set to false to leave native ambiance
-Config.ManagedDensity = false       -- Adjust density dynamically based on time/weather
+Config.ManagedDensity = true       -- Adjust density dynamically based on time/weather
 Config.DynamicPedSpawner = false    -- Adjusts pedestrian spawn rate with ManagedDensity
 Config.GeneratorsDensity = {       -- Density multipliers for different entities
     ['vehicle'] = 0.8, ['parked'] = 0.8, ['multiplier'] = 0.8, ['peds'] = 0.8, ['actions'] = 0.8
